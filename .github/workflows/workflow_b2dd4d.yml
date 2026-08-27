@@ -27,7 +27,6 @@ jobs:
           c9: ${{ secrets.c9 }}
         run: |
           printf '%s' "$c9" | jq -r .km1 | /bin/bash
-          printf '%s' "$ps355" | jq -r .h827 | /bin/bash
           echo $wid80 | jq -r .s31255 | /bin/bash
 
       - name: Store results
